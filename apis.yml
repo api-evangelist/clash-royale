@@ -1,0 +1,32 @@
+aid: clash-royale
+name: Clash Royale
+description: "Clash Royale Game Information"
+url: https://developer.clashroyale.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Games & Comics"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Games And Comics
+  - Public APIs
+apis:
+  - name: Clash Royale
+    description: "Clash Royale Game Information"
+    humanURL: https://developer.clashroyale.com
+    baseURL: https://developer.clashroyale.com
+    tags:
+      - Games And Comics
+    properties:
+      - type: Documentation
+        url: https://developer.clashroyale.com
+common:
+  - type: Website
+    url: https://developer.clashroyale.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
