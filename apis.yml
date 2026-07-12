@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developer.clashroyale.com
 common:
+  - type: DomainSecurity
+    url: security/clash-royale-domain-security.yml
   - type: Website
     url: https://developer.clashroyale.com
   - type: PublicAPIsListing
